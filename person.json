@@ -1,12 +1,65 @@
 {
-  "personal_details": {
-    "full_name": "Ruwan Egodawatte",
-    "other_names":["Ruwan Bandara","Ruwan Egodawatte"],
-    "nick_names":["ruwanego"],
-    "nic_number":"890876540V",
-    "driving_license_number":"890876540V",
-    "passport_number":"890876540V"
-  },
-  "contact_details": {
-  }
+	"personalDetails": {
+		"fullName": "Ruwan Egodawatte",
+		"otherNames": ["Ruwan Bandara", "Ruwan Egodawatte"],
+		"nickNames": ["ruwanego"],
+		"nicNumber": "890876540V",
+		"drivingLicense_number": "890876540V",
+		"passportNumber": "890876540V"
+	},
+	"contactDetails": {
+		"permanentAddress": ["N0 11", "polonnaruwa"],
+		"otherAddresses": ["N0 12", "N0 13"],
+		"TP": ["012345", "987845"],
+		"email": "abc@gmail.com",
+		"website": "www.google.lk",
+		"socialNetwork": ["facebook", "twitter"]
+	},
+	"biologicalDescription ": {
+		"gender": "male",
+		"DOB": "1989.10.10",
+		"height": "5.15",
+		"weight": "40",
+		"hairColor": "black",
+		"eyeColor": "black",
+		"bloodType": "ab"
+	},
+	"educationalInformation": {
+		"school": ["leelarathene", "vileyaye"],
+		"educationLevel": ["O/L", "A/L"]
+	},
+	"G.C.E.AdvanceLevel": {
+		"ALResult": ["sinhala-A", "maths-A"]
+	},
+	"G.C.E.OdinaryLevel": {
+		"OLResult": ["sinhala-A", "maths-A"]
+	},
+	"languageSkill": {
+		"languageSkill": ["Sinhala", "English"]
+	},
+	"vocationalTraning": {
+		"vocationalTraning": ["motor mechanic", "IT"],
+		"vocationalTradingResult": ["motor mechanic-A", "IT-A"]
+	},
+	"occupation": {
+		"occupation": "Driver"
+	},
+	"workingExperience": {
+		"workingExperience": "2 year"
+	},
+	"monthlyIncome": {
+		"monthlyIncome": "Rs. 50,000"
+	},
+	"talent": {
+		"talent": "Carrom"
+	},
+	"properties": {
+		"properties": "100,000"
+	},
+	"futureTargets": {
+		"futureTargets": "businessman"
+	},
+	"futureNeeds": {
+		"futureNeeds": "Land"
+	}
 }
